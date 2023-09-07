@@ -1,0 +1,72 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#header img{
+    width: 300px;
+}
+#header h1{
+   margin: 0%; 
+}
+#header p{
+    font-weight: bold;
+    color: gray;
+ }
+ #header a{
+    display: inline-block;
+    margin: 20px 0px;
+    border: 1px solid lightslategray;
+    text-decoration: none;
+    padding: 7px;
+    margin-bottom: 10px!important; 
+ }
+ #container label{
+    display: inline-block!important;
+    color: #0d6db7!important;
+ }
+ #container select{
+    display: inline-block!important;
+    padding: 10px;
+    border:2px solid #8dc63f;;
+    border-radius: 5px;
+    width: 400px;
+ }
+ #container input{
+    color: black;
+    display: inline-block!important;
+    padding: 10px;
+    border:2px solid #8dc63f;
+    border-radius: 5px;
+    width: 375px;
+ }
+ #container a{
+    text-decoration: none;
+    border: 1px dashed grey;
+    padding: 35px;
+    color: black;
+    background-color: lightgrey;
+    border-radius: 5px;
+ }
+ #content input{
+   color: black;
+   display: inline-block!important;
+   padding: 10px;
+   border:2px solid #8dc63f;
+   border-radius: 5px;
+   width: 475px;
+}
+#content label{
+   display: inline-block!important;
+   color: #0d6db7!important;
+}
+#context input{
+   color: black;
+   display: inline-block!important;
+   padding: 10px;
+   border:2px solid #8dc63f;
+   border-radius: 5px;
+   width: 475px;
+}
+#context label{
+   display: inline-block!important;
+   color: #0d6db7!important;
+}
